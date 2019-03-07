@@ -1,4 +1,4 @@
-﻿Terraform Enterprise (TFE) Glossary
+Terraform Enterprise (TFE) Glossary
 
 ## Apply (noun)
 
